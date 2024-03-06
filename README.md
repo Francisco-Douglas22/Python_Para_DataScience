@@ -1,2 +1,2 @@
-# Python_Para_DataScience
- Python Para Analise de Dados e DataScience
+# 02_Python_Para_Data_Science
+Python Para Data Science e Data Analytics
